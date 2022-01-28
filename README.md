@@ -12,3 +12,11 @@ Patika.dev projeleri.
 
 [7,3,5,8,2,9,4,15,6]
 ```
+
+## 2. Problem: Merge Sort
+* Aşağıda verilen dizinin sort türüne göre aşamalarını yazınız.
+* Big-O gösterimini yazınız.
+
+```
+[16,21,11,8,12,22]
+```
