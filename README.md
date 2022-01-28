@@ -20,3 +20,11 @@ Patika.dev projeleri.
 ```
 [16,21,11,8,12,22]
 ```
+
+## 3. Problem: Binary Search Tree
+* Aşağıda verilen dizinin Binary-Search-Tree aşamalarını yazınız.
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+
+```
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+```
